@@ -1,0 +1,398 @@
+[
+  {
+    "id": "c4ff7872122e152e",
+    "key": "A2A166",
+    "expiresAt": "2025-12-15",
+    "allowOffline": false
+  },
+  {
+    "id": "07a9fa76576b8c45",
+    "key": "A4B279",
+    "expiresAt": "2025-12-29",
+    "allowOffline": false
+  },
+  {
+    "id": "ce4f1cf1c229fe6b",
+    "key": "A2A088",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "71a92e2c40580ca7",
+    "key": "A2A088",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "d5b76094512008a1",
+    "key": "A2A088",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "e47e117e81f822ad",
+    "key": "A2A088",
+    "expiresAt": "2026-01-01",
+    "allowOffline": false
+  },
+  {
+    "id": "43d45b055c11077b",
+    "key": "132100",
+    "expiresAt": "2025-12-23",
+    "allowOffline": false
+  },
+  {
+    "id": "43c7941d26d20c2a",
+    "key": "A20033",
+    "expiresAt": "2026-01-29",
+    "allowOffline": false
+  },
+  {
+    "id": "6a30b30b021707a2",
+    "key": "A20033",
+    "expiresAt": "2025-12-29",
+    "allowOffline": false
+  },
+  {
+    "id": "44c8e1286b667f80",
+    "key": "A20033",
+    "expiresAt": "2025-12-29",
+    "allowOffline": false
+  },
+  {
+    "id": "c8058efoe2bf8fa1",
+    "key": "A2A166",
+    "expiresAt": "2025-11-14",
+    "allowOffline": false
+  },
+  {
+    "id": "c8058ef0e2bf8fa1",
+    "key": "A2A166",
+    "expiresAt": "2025-12-13",
+    "allowOffline": false
+  },
+  {
+    "id": "3677aa36cfdd6ab9",
+    "key": "A2A088",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "1d21dd6808905df6",
+    "key": "A3A310",
+    "expiresAt": "2025-12-28",
+    "allowOffline": false
+  },
+  {
+    "id": "95e0331e6c8ec20c",
+    "key": "A30083",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "076f279cffc01694",
+    "key": "A3A054",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "e1e17897e76d0515",
+    "key": "A20033",
+    "expiresAt": "2026-02-01",
+    "allowOffline": false
+  },
+  {
+    "id": "0b94ef4cc5a46d49",
+    "key": "A3A364",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "fa9c882c4e5872e7",
+    "key": "A3A054",
+    "expiresAt": "2025-12-06",
+    "allowOffline": false
+  },
+  {
+    "id": "db2595c4a7880cc7",
+    "key": "A4B324",
+    "expiresAt": "2025-12-03",
+    "allowOffline": false
+  },
+  {
+    "id": "0da85270ffbe6c2e",
+    "key": "A4B324",
+    "expiresAt": "2025-12-03",
+    "allowOffline": false
+  },
+  {
+    "id": "00962f170a0b9078",
+    "key": "A4B324",
+    "expiresAt": "2025-12-03",
+    "allowOffline": false
+  },
+  {
+    "id": "f9d92de893663ed7",
+    "key": "A4B016",
+    "expiresAt": "2025-12-03",
+    "allowOffline": false
+  },
+  {
+    "id": "069d5c03e7480608",
+    "key": "132100",
+    "expiresAt": "2026-01-01",
+    "allowOffline": false
+  },
+  {
+    "id": "3d91f3078eda4d85",
+    "key": "A4B400",
+    "expiresAt": "2025-12-03",
+    "allowOffline": false
+  },
+  {
+    "id": "5880510547653cd9",
+    "key": "A4B363",
+    "expiresAt": "2025-12-03",
+    "allowOffline": false
+  },
+  {
+    "id": "367a47c5d17a2d68",
+    "key": "A4B363",
+    "expiresAt": "2025-12-03",
+    "allowOffline": false
+  },
+  {
+    "id": "97bfb088f4ffd49a",
+    "key": "A4B411",
+    "expiresAt": "2025-12-04",
+    "allowOffline": false
+  },
+  {
+    "id": "9b07def6143ceebb",
+    "key": "A4B411",
+    "expiresAt": "2025-12-04",
+    "allowOffline": false
+  },
+  {
+    "id": "4e557945d52f61c7",
+    "key": "A4A110",
+    "expiresAt": "2025-12-04",
+    "allowOffline": false
+  },
+  {
+    "id": "d006144a3b08a20d",
+    "key": "A2A093",
+    "expiresAt": "2025-12-04",
+    "allowOffline": false
+  },
+  {
+    "id": "197775244f576f84",
+    "key": "132100",
+    "expiresAt": "2025-12-04",
+    "allowOffline": false
+  },
+  {
+    "id": "b5a2add0703f8376",
+    "key": "A2A093",
+    "expiresAt": "2025-12-04",
+    "allowOffline": false
+  },
+  {
+    "id": "040378ff0c3fdcab",
+    "key": "A2A093",
+    "expiresAt": "2025-12-04",
+    "allowOffline": false
+  },
+  {
+    "id": "ebb0d59125a4f925",
+    "key": "A30130",
+    "expiresAt": "2025-12-04",
+    "allowOffline": false
+  },
+  {
+    "id": "53455c78299b2e34",
+    "key": "365057",
+    "expiresAt": "2025-12-05",
+    "allowOffline": false
+  },
+  {
+    "id": "ffa8b6090018348c",
+    "key": "A30124",
+    "expiresAt": "2025-12-05",
+    "allowOffline": false
+  },
+  {
+    "id": "c081004a6cfca714",
+    "key": "A4B279",
+    "expiresAt": "2025-12-06",
+    "allowOffline": false
+  },
+  {
+    "id": "Tarak",
+    "key": "Test",
+    "expiresAt": "2025-12-06",
+    "allowOffline": false
+  },
+  {
+    "id": "b657e181cc3d7a3b",
+    "key": "361030",
+    "expiresAt": "2025-12-07",
+    "allowOffline": false
+  },
+  {
+    "id": "e20820057705f9a1",
+    "key": "132100",
+    "expiresAt": "2025-12-04",
+    "allowOffline": false
+  },
+  {
+    "id": "086ad7c9317f1329",
+    "key": "A4A253",
+    "expiresAt": "2025-12-07",
+    "allowOffline": false
+  },
+  {
+    "id": "45a2dd3b8d02c5da",
+    "key": "A40584",
+    "expiresAt": "2025-12-08",
+    "allowOffline": false
+  },
+  {
+    "id": "2775c78345036285",
+    "key": "A2A043",
+    "expiresAt": "2025-12-08",
+    "allowOffline": false
+  },
+  {
+    "id": "d3216c5718cbbae3",
+    "key": "A4B400",
+    "expiresAt": "2025-12-09",
+    "allowOffline": false
+  },
+  {
+    "id": "0d7ee1c8fd2a5f0d",
+    "key": "A3A064",
+    "expiresAt": "2025-12-12",
+    "allowOffline": false
+  },
+  {
+    "id": "59c48bd5de528913",
+    "key": "A2A019",
+    "expiresAt": "2025-12-17",
+    "allowOffline": false
+  },
+  {
+    "id": "1c6b27fd100edfeb",
+    "key": "A3A410",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "d5085dadfadb9d1a",
+    "key": "A3A410",
+    "expiresAt": "2025-12-01",
+    "allowOffline": false
+  },
+  {
+    "id": "0447547d2a36c387",
+    "key": "A3A410",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "124ea1434c1320e3",
+    "key": "A3A535",
+    "expiresAt": "2025-12-18",
+    "allowOffline": false
+  },
+  {
+    "id": "10b7525afd7a7f8c",
+    "key": "A3A410",
+    "expiresAt": "2025-12-18",
+    "allowOffline": false
+  },
+  {
+    "id": "75887eddff710d63",
+    "key": "A2A088",
+    "expiresAt": "2025-12-19",
+    "allowOffline": false
+  },
+  {
+    "id": "fed7a6c2d942bb7b",
+    "key": "A3A410",
+    "expiresAt": "2025-12-19",
+    "allowOffline": false
+  },
+  {
+    "id": "7563b809c286f956",
+    "key": "A4A981",
+    "expiresAt": "2025-12-22",
+    "allowOffline": false
+  },
+  {
+    "id": "4399b63686cc4836",
+    "key": "A4A981",
+    "expiresAt": "2025-12-22",
+    "allowOffline": false
+  },
+  {
+    "id": "3d644a736f0baac3",
+    "key": "A2A006",
+    "expiresAt": "2025-12-23",
+    "allowOffline": false
+  },
+  {
+    "id": "0939405a281f4b7a",
+    "key": "A2A006",
+    "expiresAt": "2025-12-23",
+    "allowOffline": false
+  },
+  {
+    "id": "8c665fa093a193e0",
+    "key": "A2A006",
+    "expiresAt": "2025-12-23",
+    "allowOffline": false
+  },
+  {
+    "id": "4f570c771971cf9e",
+    "key": "A2A006",
+    "expiresAt": "2025-12-23",
+    "allowOffline": false
+  },
+  {
+    "id": "96ce745700072185",
+    "key": "A2A006",
+    "expiresAt": "2025-12-23",
+    "allowOffline": false
+  },
+  {
+    "id": "f5e9e4b813cee13e",
+    "key": "A2A006",
+    "expiresAt": "2025-12-24",
+    "allowOffline": false
+  },
+  {
+    "id": "8b39b4de3a3da7b2",
+    "key": "A3A398",
+    "expiresAt": "2025-12-24",
+    "allowOffline": false
+  },
+  {
+    "id": "ee517a572f5bd8f0",
+    "key": "A3A114",
+    "expiresAt": "2025-12-28",
+    "allowOffline": false
+  },
+  {
+    "id": "4338e7416f9bc6e0",
+    "key": "A3A521",
+    "expiresAt": "2025-12-29",
+    "allowOffline": false
+  },
+  {
+    "id": "9e2e6cea24959310",
+    "key": "A3A521",
+    "expiresAt": "2025-12-30",
+    "allowOffline": false
+  }
+]
